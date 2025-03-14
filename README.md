@@ -13,4 +13,28 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--># 🚀 Nomasystems | Software Engineering Experts  
+
+**Founded in 2004**, we are a software engineering company specializing in **high availability**, **distributed systems**, and **mobile ecosystems**. We build robust and scalable solutions tailored to your needs.  
+
+🌍 [Visit our website](https://www.nomasystems.com)  
+📧 Contact us: [github@nomasystems.com](mailto:github@nomasystems.com)  
+
+---
+
+## 🔹 What We Do  
+
+✅ **High Availability Systems** – Ensuring reliability at scale  
+✅ **Distributed Architectures** – Scalable, efficient, and secure  
+✅ **Mobile Ecosystems** – Cutting-edge apps for iOS & Android  
+
+---
+
+## 💡 Why Choose Us?  
+
+✔️ **20+ years of experience** in software engineering  
+✔️ **Expert team** passionate about technology  
+✔️ **Tailor-made solutions** for your business  
+
+🚀 Let’s build something amazing together!  
+
