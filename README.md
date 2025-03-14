@@ -1,40 +1,21 @@
-## Hi there 👋
+<h1 align="center">🚀 Welcome to Nomasystems 👋</h1>
+<h3 align="center">Experts in High Availability, Distributed Systems & Mobile Ecosystems</h3>
 
-<!--
-**Akinne85/Akinne85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nomasystems" alt="nomasystems" /> </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---># 🚀 Nomasystems | Software Engineering Experts  
-
-**Founded in 2004**, we are a software engineering company specializing in **high availability**, **distributed systems**, and **mobile ecosystems**. We build robust and scalable solutions tailored to your needs.  
-
-🌍 [Visit our website](https://www.nomasystems.com)  
-📧 Contact us: [github@nomasystems.com](mailto:github@nomasystems.com)  
+- 🏢 **Founded in 2004**, we are a **software engineering company** specializing in **high availability, distributed systems, and mobile ecosystems**.  
+- 🌍 Visit us at [https://www.nomasystems.com](https://www.nomasystems.com)  
+- 📧 Reach out at **[github@nomasystems.com](mailto:github@nomasystems.com)**  
+- 💡 Passionate about **scalable architectures, performance optimization, and cutting-edge technology**.  
+- 🚀 We build solutions for **iOS, Android, Web, and Cloud**.  
 
 ---
 
-## 🔹 What We Do  
+<h3 align="left">🌐 Connect with us:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/company/nomasystems" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nomasystems-linkedin" height="30" width="40" /></a>
+<a href="https://twitter.com/nomasystems" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nomasystems-twitter" height="30" width="40" /></a>
+</p>
 
-✅ **High Availability Systems** – Ensuring reliability at scale  
-✅ **Distributed Architectures** – Scalable, efficient, and secure  
-✅ **Mobile Ecosystems** – Cutting-edge apps for iOS & Android  
-
----
-
-## 💡 Why Choose Us?  
-
-✔️ **20+ years of experience** in software engineering  
-✔️ **Expert team** passionate about technology  
-✔️ **Tailor-made solutions** for your business  
-
-🚀 Let’s build something amazing together!  
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomasystems&layout=compact" alt="nomasystems" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nomasystems&show_icons
