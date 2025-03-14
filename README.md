@@ -1,6 +1,3 @@
-<h1 align="center">🚀 Welcome to Nomasystems 👋</h1>
-<h3 align="center">Experts in High Availability, Distributed Systems & Mobile Ecosystems</h3>
-
 ![Github Welcome](https://github.com/user-attachments/assets/440a1a4a-e76e-4a37-9120-b6fa38b11d7b)
 
 
