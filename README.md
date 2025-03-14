@@ -1,7 +1,8 @@
 <h1 align="center">🚀 Welcome to Nomasystems 👋</h1>
 <h3 align="center">Experts in High Availability, Distributed Systems & Mobile Ecosystems</h3>
+![Github Welcome](https://github.com/user-attachments/assets/cf7a6e41-6463-4390-bec6-afcef5430f1c)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nomasystems" alt="nomasystems" /> </p>
+
 
 - 🏢 **Founded in 2004**, we are a **software engineering company** specializing in **high availability, distributed systems, and mobile ecosystems**.  
 - 🌍 Visit us at [https://www.nomasystems.com](https://www.nomasystems.com)  
